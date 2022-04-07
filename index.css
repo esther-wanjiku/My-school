@@ -10,7 +10,7 @@ header {
 .topnav {
   background-color: olive;
   overflow: hidden;
-}
+} 
 .navigation {
   color:white;
   float: left;
@@ -23,7 +23,8 @@ header {
 #sidenav {
   width: 30%;
   height: 550px;
-  background-color: brown;
+  background-color: brown
+  ;
   float: left;
   font-size: 30px;
 }
